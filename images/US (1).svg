@@ -1,0 +1,19 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="US" clip-path="url(#clip0_128_17589)">
+<g id="Mask group">
+<mask id="mask0_128_17589" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="20">
+<path id="Vector" d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20Z" fill="#F0F0F0"/>
+</mask>
+<g mask="url(#mask0_128_17589)">
+<rect id="Rectangle 14" width="20" height="8" fill="#2E7134"/>
+<rect id="Rectangle 15" x="0.5" y="8.5" width="19" height="4" fill="white" fill-opacity="0.85" stroke="white"/>
+<rect id="Rectangle 16" y="13" width="20" height="7" fill="#2E7134"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_128_17589">
+<rect width="20" height="20" fill="white"/>
+</clipPath>
+</defs>
+</svg>

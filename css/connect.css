@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+    font-family: 'Inter', sans-serif;
+}
+
+section{
+    min-height: 100vh;
+}
+
+nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 1.5rem 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    color: #9B51E0;
+}
+
+nav span{
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+nav a{
+    color: #9B51E0;
+}
+
+.centered-nav a{
+    padding-left: 35px;
+}
+
+.left-nav a{
+    padding-right: 35px;
+}
